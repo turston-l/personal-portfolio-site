@@ -1,3 +1,5 @@
+# Personal Portfolio
+
 ## The project was developed using PHP/Mysqli, MySQL Database, HTML, CSS, Javascript (jQuery and Ajax), Bootstrap, and some other plugins/libraries.
 
 
